@@ -1,0 +1,23 @@
+.page-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+  }
+  
+  .header-title {
+    text-align: center;
+  }
+  
+  .dropdown-container {
+    display: flex;
+    justify-content: center;
+    margin-top: 20px;
+  }
+  
+  .dropdown-box {
+    margin: 0 10px;
+    height: 30px;
+  }
+  
